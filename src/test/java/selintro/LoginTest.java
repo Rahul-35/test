@@ -12,7 +12,7 @@ public class LoginTest {
 	@BeforeTest
 	public void setup() {
 		System.out.println("Setup");
-		System.out.println("Ok");
+		//System.out.println("Ok");
 	}
     @Test
     public void testGoogleHomePage() {
